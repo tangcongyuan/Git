@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-Git
-===
-
-My Git notes
-=======
-Fun
-===
-This file is created to store my favorite pictures.
->>>>>>> Fun/master
+This README.md file contains two merged README.md file:
+File contained:
+* 1.Git notes
+* 2.My funny pictures
